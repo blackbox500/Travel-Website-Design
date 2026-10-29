@@ -1,0 +1,6 @@
+node_modules
+dist
+deploy/package
+.shots
+*.log
+.DS_Store
